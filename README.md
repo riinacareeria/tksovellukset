@@ -1,6 +1,8 @@
 # tksovellukset
 Tietokantasovellukset
 
-T‰m‰ teksti lis‰tty VisualStudiossa
+T√§m√§ teksti lis√§tty VisualStudiossa
 
-Ja t‰m‰kin testausta.
+Ja t√§m√§kin testausta.
+
+T√§m√§ muutos puolestaan on tehty GitHubissa
